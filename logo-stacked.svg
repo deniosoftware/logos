@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="436.07364mm"
+   height="130.18343mm"
+   viewBox="0 0 436.07364 130.18343"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo-stacked.svg"
+   inkscape:export-filename="D:\cjden\Documents\densoft-website-old\img\logo\logo-stacked.png"
+   inkscape:export-xdpi="163.17009"
+   inkscape:export-ydpi="163.17009">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath826">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -368.90475,39.220235 45.3335,78.519955 56.71449,-80.461512 -57.60228,-75.448582 z"
+         id="path828"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.22137227"
+     inkscape:cx="-152.90355"
+     inkscape:cy="590.94724"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(581.7874,-105.5947)">
+    <g
+       id="g824"
+       transform="translate(159.08009,-74.811783)">
+      <path
+         inkscape:transform-center-y="2.7165782e-006"
+         transform="matrix(0.63551025,0.36691201,-0.36691201,0.63551025,-273.99754,281.13478)"
+         inkscape:transform-center-x="-4.0633704e-006"
+         d="m -325.57576,114.26826 c -7.50481,4.3329 -79.15319,4.3329 -86.65799,0 -7.5048,-4.3329 -43.32899,-66.382228 -43.32899,-75.048026 0,-8.665799 35.82419,-70.71512 43.32899,-75.048019 7.50481,-4.332899 79.15319,-4.332895 86.65799,4e-6 7.50481,4.3329 43.329,66.382224 43.32899,75.048023 0,8.665799 -35.82419,70.715118 -43.32899,75.048018 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0.1"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.5707963"
+         sodipodi:arg1="1.0471976"
+         sodipodi:r2="75.048027"
+         sodipodi:r1="86.65799"
+         sodipodi:cy="39.220238"
+         sodipodi:cx="-368.90475"
+         sodipodi:sides="6"
+         id="path819"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff9600;stroke-width:4.08817339;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         sodipodi:type="star" />
+      <path
+         sodipodi:type="star"
+         style="opacity:1;fill:#ff9600;fill-opacity:1;stroke:#ff9600;stroke-width:2.11666656;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="path839"
+         sodipodi:sides="6"
+         sodipodi:cx="-368.90475"
+         sodipodi:cy="39.220238"
+         sodipodi:r1="86.65799"
+         sodipodi:r2="75.048027"
+         sodipodi:arg1="1.0471976"
+         sodipodi:arg2="1.5707963"
+         inkscape:flatsided="true"
+         inkscape:rounded="0.1"
+         inkscape:randomized="0"
+         d="m -325.57576,114.26826 c -7.50481,4.3329 -79.15319,4.3329 -86.65799,0 -7.5048,-4.3329 -43.32899,-66.382228 -43.32899,-75.048026 0,-8.665799 35.82419,-70.71512 43.32899,-75.048019 7.50481,-4.332899 79.15319,-4.332895 86.65799,4e-6 7.50481,4.3329 43.329,66.382224 43.32899,75.048023 0,8.665799 -35.82419,70.715118 -43.32899,75.048018 z"
+         inkscape:transform-center-x="-6.1475939e-006"
+         transform="matrix(0.4912288,0.28361108,-0.28361108,0.4912288,-330.49073,256.06342)"
+         inkscape:transform-center-y="1.7319622e-006" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-516.32947"
+       y="207.26099"
+       id="text843"><tspan
+         sodipodi:role="line"
+         id="tspan841"
+         x="-516.32947"
+         y="207.26099"
+         style="font-size:35.27777863px;fill:#000000;fill-opacity:1;stroke-width:0.26458332">DENIO<tspan
+   style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Ultra-Bold';fill:#000000;fill-opacity:1"
+   id="tspan845">SOFTWARE</tspan></tspan></text>
+  </g>
+</svg>
